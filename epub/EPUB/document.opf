@@ -5,10 +5,10 @@
         <dc:identifier id="fidus">4</dc:identifier>
         <dc:title>Book title</dc:title>
         <dc:creator>
-            johannes
+            Johannes Test
         </dc:creator>
         <dc:language>en-US</dc:language>
-        <meta property="dcterms:modified">2020-04-11T19:59:39Z</meta>
+        <meta property="dcterms:modified">2020-04-11T20:05:30Z</meta>
         <dc:date>2020-04-11</dc:date>
         
         
